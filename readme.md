@@ -7,3 +7,5 @@
 * Student Repositories
 * GitHb Classroom
 * Permissions 
+* Exercises
+* Automated testing
